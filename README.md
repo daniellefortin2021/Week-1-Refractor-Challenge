@@ -1,7 +1,7 @@
 # Week 1 Refractor - Challenge (Horiseon)
 
 ## Description
-This repository is where I have improved the html structure of the Horiseon website. Improvedments to the Horiseon website include updated semantic HTML elements, updated HTML element structure, accessible atl attributes, and and updated website title.
+This repository is where I have improved the html structure of the Horiseon website. Improvements to the Horiseon website include updated semantic HTML elements, updated HTML element structure, accessible atl attributes, and and updated website title.
 
 
 

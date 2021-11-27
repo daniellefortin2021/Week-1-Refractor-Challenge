@@ -3,8 +3,7 @@
 ## Description
 This repository is where I have improved the html structure of the Horiseon website. Improvements to the Horiseon website include updated semantic HTML elements, updated HTML element structure, accessible atl attributes, and and updated website title.
 
-
-
+https://daniellefortin2021.github.io/Week-1-Refractor-Challenge/
 
 ## Table of Contents (Optional)
 
